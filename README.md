@@ -4,7 +4,10 @@
   ![Design and Developement](https://github.com/Feddane/Feddane/blob/main/hi%20there!.png )
 
 ## Skills and experience
-* ![alt text]([http://url/to/img.png](https://iconscout.com/icon/html-59))  HTML / CSS / JS
+* 💻  HTML / CSS / JS
+* 📱 Android
+* 🐍 Python
+* 
 
 - 🌱 I’m currently learning Android 
 
