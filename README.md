@@ -1,5 +1,5 @@
 
-  ![Design and Developement](https://github.com/Feddane/Feddane/blob/main/hi%20there!.png)
+  ![Design and Developement](https://github.com/Feddane/Feddane/blob/main/hi%20there!.png )
 
 # 💫 About Me:
 🔭 I’m currently working on android app.<br>🌱 I’m currently learning mobile dev.<br>
@@ -18,6 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
