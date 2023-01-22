@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Chaïma
 #### A passionate android app developer
 
-####https://github.com/Feddane/Feddane/blob/main/hi%20there!.png
 
 Skills: C / PYTHON / JS / HTML / CSS/ JAVA / SQL/ ANDROID
 
