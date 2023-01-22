@@ -3,7 +3,6 @@
 
 
 Skills: C / PYTHON / JS / HTML / CSS/ JAVA / SQL/ ANDROID
-
 ![Design and Developement](https://github.com/Feddane/Feddane/blob/main/hi%20there!.png )
 - 🌱 I’m currently learning Android 
 
