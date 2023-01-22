@@ -4,7 +4,7 @@
 
 Skills: C / PYTHON / JS / HTML / CSS/ JAVA / SQL/ ANDROID
 
-![Design and Developement]([<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Feddane)  )
+![Design and Developement](https://github.com/Feddane/Feddane/blob/main/hi%20there!.png )
 - 🌱 I’m currently learning Android 
 
 
