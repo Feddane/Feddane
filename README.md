@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Feddane&theme=radical)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Feddane&currStreakNum=2FD3EB&theme=radical&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feddane&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
