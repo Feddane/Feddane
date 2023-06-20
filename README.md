@@ -17,7 +17,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feddane&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
