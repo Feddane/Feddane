@@ -1,7 +1,11 @@
 ![Design and Developement](https://github.com/Feddane/Feddane/blob/main/hi%20there!.png ) 
 
 
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7E10C&center=true&width=435&lines=IAM+ADDICTED+TO+PWNING;EAT+SLEEP+AND+CTF" alt="Typing SVG" />
+  </a>
+</p>
 
 
 # 💫 About Me:
